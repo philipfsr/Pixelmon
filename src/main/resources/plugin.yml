@@ -1,0 +1,7 @@
+name: Pixelmon
+version: '${version}'
+
+main: de.souperman.main.Main
+api-version: '26.1'
+
+authors: [ SouperMan ]
